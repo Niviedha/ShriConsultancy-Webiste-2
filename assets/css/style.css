@@ -141,7 +141,8 @@ h6,
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 15px;
-  color: #4e4039;
+  /* color: #4e4039; */
+  color: #00465f;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -424,7 +425,7 @@ h6,
   }
 
   #hero .hero-img img {
-    width: 70%;
+    width: 50%;
   }
 }
 
@@ -1293,17 +1294,19 @@ section {
 }
 
 #footer .footer-top .footer-contact p {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: 'Times New Roman', Times, serif;
   color: #5c5c5c;
 }
 
 #footer .footer-top h4 {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
-  color: #212529;
+  /* color: #212529; */
+  color: #ed5f19;
   position: relative;
   padding-bottom: 12px;
 }
